@@ -1,0 +1,22 @@
+{
+  "pays": [
+    { "nom": "Espagne", "population": 35, "capitale": "Madrid" },
+    { "nom": "France", "population": 67, "capitale": "Paris" },
+    { "nom": "Russie", "population": 66, "capitale": "Londres" },
+    { "nom": "Allemagne", "population": 83, "capitale": "Berlin" },
+    { "nom": "Italie", "population": 60, "capitale": "Rome" },
+    { "nom": "Suisse", "population": 8.5, "capitale": "Berne" },
+    { "nom": "Portugal", "population": 10, "capitale": "Lisbonne" },
+    { "nom": "Pays Bas", "population": 17, "capitale": "Amsterdam" },
+    { "nom": "Belgique", "population": 11.5, "capitale": "Bruxelles" },
+    { "nom": "Pologne", "population": 38, "capitale": "Varsovie" },
+    { "nom": "Roumanie", "population": 60, "capitale": "Bucarest" },
+    { "nom": "République Tchèque", "population": 10.7, "capitale": "Prague" },
+    { "nom": "Grèce", "population": 10.7, "capitale": "Athènes" },
+    { "nom": "Suède", "population": 10.2, "capitale": "Stockholm" },
+    { "nom": "Hongrie", "population": 9.8, "capitale": "Budapest" },
+    { "nom": "Autriche", "population": 8.8, "capitale": "Vienne" },
+    { "nom": "Danemark", "population": 5.8, "capitale": "Copenhague" },
+    { "nom": "Bulgarie", "population": 7, "capitale": "Sofia" }
+  ]
+}

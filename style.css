@@ -1,0 +1,36 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+  list-style-type: none;
+  width: 100%;
+  max-width: 600px;
+  min-width: 300px;
+  margin: 20px auto 0;
+}
+
+.list li {
+  font-size: 20px;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid rgba(49, 49, 49, 0.5);
+}
+
+#liToDel {
+  background: crimson;
+  color: white;
+}
+
+.info-pays {
+  font-size: 30px;
+  padding: 20px;
+}
